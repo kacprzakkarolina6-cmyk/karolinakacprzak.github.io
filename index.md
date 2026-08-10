@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/style.css">
 # Karolina Kacprzak
 
 Welcome to my academic page. I am a Research Assistant trained in applied microeconomics, innovation economics, and reproducible empirical workflows. My work focuses on how gender inclusion shapes the scale and direction of technological change, with a particular interest in sustainability‑oriented innovation and regional development.
