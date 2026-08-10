@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/style.css">
 # Research
 
 My research focuses on applied microeconomics, innovation, and public policy, with a particular interest in how gender inclusion shapes the scale and direction of technological change. I work with large administrative and patent datasets, quasi‑experimental methods, and reproducible workflows in Stata and R. Much of my work examines how institutional design, human capital composition, and regional characteristics influence innovation outcomes, especially in sustainability‑oriented technologies.
